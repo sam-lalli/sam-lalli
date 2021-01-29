@@ -4,9 +4,9 @@ I am passionate about collaborating within a team and creating quality products.
 
 • I love sports 
 
-• being outdoors
+• Being outdoors
 
-• meeting new people
+• Meeting new people
 
 
 Skills: JAVA / REACT / JS / HTML / CSS / PYTHON
