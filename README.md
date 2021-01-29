@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Sam
 #### I am a Full-Stack Web Developer
-I am passionate about collaborating within a team and creating quality products. I love sports, being outdoors, and meeting new people.
+I am passionate about collaborating within a team and creating quality products. 
+
+I love sports, being outdoors, and meeting new people.
 
 
 Skills: JAVA / REACT / JS / HTML / CSS / PYTHON
