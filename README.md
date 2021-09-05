@@ -7,7 +7,7 @@ I love sports, being outdoors, and meeting new people.
 
 Skills: / JS/ JAVA / REACT / REDUX / NEXT / HTML / CSS / PYTHON
 
-
+[Portfolio Website](https://www.samlalli.com/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samlalli/)  
 
