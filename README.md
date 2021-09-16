@@ -4,8 +4,6 @@ I am passionate about collaborating within a team and creating quality products.
 
 I love sports, being outdoors, and meeting new people.
 
-Currently working as a QA Engineer for QA Wolf
-
 
 Skills: / JS/ JAVA / REACT / REDUX / NEXT / HTML / CSS / PYTHON
 
