@@ -11,7 +11,7 @@ Skills: / JS/ JAVA / REACT / REDUX / NEXT / HTML / CSS / PYTHON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samlalli/)  
 
-
+Currently a QA Engineer for [QA Wolf](https://www.qawolf.com/)
 
 <!--
 **sam-lalli/sam-lalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
